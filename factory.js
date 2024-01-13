@@ -1,3 +1,5 @@
+// 신발 공장에 비유
+
 class Shoe {
   constructor(attrs) {
     this._attrs = attrs || {};
